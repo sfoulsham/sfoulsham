@@ -5,13 +5,8 @@
 - 📫 Please reach out if you have any advice or feedback!
 
 
-![Screenshot][github_image.png]
+![banner][github_image.png]
 
+## Hi, I'm Scarlett! :wave:
 
-
-info I want to include
-
-studying computational data science at the university of sydney
-interested in data analytics and visualisations, especially when used for buisness insights 
-python, R, and learning tableau which is a data visualation software 
-bullet points big photo 
+I'm a computational data science student at the University of Sydney. I'm interested in data analytics and visualisations, especially when used for buisness insights. I'm experienced with python, R, and am learning tableau.
