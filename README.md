@@ -2,8 +2,8 @@
 
 ## Hi, I'm Scarlett! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- I'm interested in data analytics and visualisations, especially when used to produce buisness insights!
-- I'm currently studying computational data science at the University of Sydney.
-- I'm learning about python, R, predictive modelling, and data manipulation.
-- I love simplistic design and code and have incoporated that within my project work.
-- I would love to hear any advice and feedback for my analytics work!
+- I'm studying computational data science at the University of Sydney.
+- I'm passionate about data analytics and visualisations especially when used for buisness insights.
+- I love simple design and code to communicate results.
+- I love learning about python, R, predictive modelling, and data manipulation.
+- Please reach out with any advice or feedback! 
