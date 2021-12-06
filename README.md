@@ -14,9 +14,8 @@
 #### Current Languages and Tools
 <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/R%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Sklearn%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Plotly%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
 
 
 #### Hoping to Learn
