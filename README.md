@@ -6,19 +6,6 @@
 
 - I'm studying computational data science at the University of Sydney.
 - I'm passionate about data analytics and visualisations especially when used for buisness insights.
-- I love learning about python, R, predictive modelling, and data manipulation.
+- I love learning about Python, R, predictive modelling, and data manipulation.
+- I currently know Python, R, Figma, and Adobe XD and am hoping to learn Tableau and SQL.
 - Please reach out with any advice or feedback! 
-
-
-#### Current Languages and Tools
-<img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Adobe XD%20-%23F7DF1E.svg?&style=for-the-badge&color=DA4648" />&nbsp;&nbsp;
-
-
-#### Hoping to Learn
-<img src="https://img.shields.io/badge/Tableau%20-%23F7DF1E.svg?&style=for-the-badge&color=E76C73" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL%20-%23F7DF1E.svg?&style=for-the-badge&color=CD324A" />&nbsp;&nbsp;
-
-
