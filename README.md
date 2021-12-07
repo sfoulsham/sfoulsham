@@ -9,11 +9,12 @@
 - I love learning about Python, R, predictive modelling, and data manipulation.
 - Please reach out with any advice or feedback! 
 
+
 #### Current Languages and Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Python](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![Python](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
-![Python](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=AdobeXD)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-05122A?style=flat&logo=AdobeXD)&nbsp;
 
 
 #### Hoping to learn
