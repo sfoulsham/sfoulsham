@@ -6,7 +6,6 @@
 
 - I'm studying computational data science at the University of Sydney.
 - I'm passionate about data analytics and visualisations especially when used for buisness insights.
-- I love simple design and code to communicate results.
 - I love learning about python, R, predictive modelling, and data manipulation.
 - Please reach out with any advice or feedback! 
 
