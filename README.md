@@ -5,5 +5,5 @@
 
 - I'm studying data science at the University of Sydney.
 - I'm passionate about data analytics and visualisations especially when used for buisness insights.
-- My current languages and technologies are Python, R, Excel, Figma, and Adobe XD and I hope to soon learn SQL.
+- My current languages and technologies are Python, R, SQL, Excel, Figma, and Adobe XD and I hope to soon learn Tableau.
 - Please reach out with any advice or feedback! :)
